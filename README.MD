@@ -26,5 +26,5 @@ Une fois le driver installé mettez le dans la racine du projet *( Libre à vous
 ## Fonctionnalités  : 
   - Ouverture du navigateur avec la page souhaiter à partir de l'url . 
   - Détecter le click sur une balise *<button>* . 
-  - Récupérer les informations d'une balise <h4> *(Dans notre exemple on selectionne le nom du produit ainsi que sont prix et ça catégorie)*
+  - Récupérer les informations d'une balise <h4> * (Dans notre exemple on selectionne le nom du produit ainsi que sont prix et ça catégorie) *
   - Affichage du résultats . 
