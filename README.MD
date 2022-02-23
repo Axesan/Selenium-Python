@@ -22,8 +22,9 @@ Selenium est un outil d’automatisation de test pour le web. Il permet de crée
 Une fois le driver installé mettez le dans la racine du projet *( Libre à vous d'organiser sa comme vous le souhaiter )*
 
 # **Projet-Axesan** :
-Merci de l'attention que vous portez à mon projet ! 
-Ici nous allons prendre en main Sélénium . 
-Le but ? Effectuer une recherche de produit a partir d'un site local.Sans toucher au navigateur 
-Nous selectionnons les éléments a partir d'une class ou en encore de l'id *(Tout dépend de votre maniere de séléctionner votre objet)*.
-Egalement la saisie dans un input qui dans notre exemple et "Apple". 
+
+## Fonctionnalités  : 
+  - Ouverture du navigateur avec la page souhaiter à partir de l'url . 
+  - Détecter le click sur une balise *<button>* . 
+  - Récupérer les informations d'une balise <h4> *(Dans notre exemple on selectionne le nom du produit ainsi que sont prix et ça catégorie)*
+  - Affichage du résultats . 
