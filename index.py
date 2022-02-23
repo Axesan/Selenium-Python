@@ -9,7 +9,7 @@ driver.get('http://127.0.0.1:8000/nos-produits');
 # on intéragis avec nos elements html par id ou name ou par la class - Ici la barre de recherche de notre site internet E-commerce
 search_bar = driver.find_element_by_id('string');
 # on envoie l'instruction pour ecrire du texte .
-search_bar.send_keys('bonnet');
+search_bar.send_keys('Apple');
 
 # On recupere le bouton afin de lancer la recherche sur le site a partir de la class . 
 bouton_search = driver.find_element_by_class_name('btn-outline-danger');
