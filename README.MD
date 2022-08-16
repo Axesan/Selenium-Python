@@ -9,7 +9,7 @@ Executer cette commande pour installer sélénium :
 
 # A propos : 
 
-Selenium est un outil d’automatisation de test pour le web. Il permet de créer des « robots » qui naviguent dans des pages webs comme le ferait un vrai utilisateur. Bien que le premier rôle de Selenium soit le testing de pages webs (développement web), cet outil est beaucoup utilisé pour l’extraction de données . 
+Selenium est un outil d’automatisation de test pour le web. Il permet de créer des « robots » qui naviguent dans des pages web comme le ferait un vrai utilisateur. Bien que le premier rôle de Selenium soit le testing de pages webs (développement web), cet outil est beaucoup utilisé pour l’extraction de données . 
 
 
 # Installation de driver : 
